@@ -101,4 +101,4 @@ This project was developed for the Real-Time System WP6 herkansingsopdracht at R
 - Gerard van Kruining (g.w.m.van.kruining@hr.nl)
 - Bob Joziasse (b.joziasse@hr.nl)
 
-**Version**: 1.0, 04-12-2024
+**Version**: 1.1, 03-03-2025
